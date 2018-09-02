@@ -8,6 +8,22 @@
 ![Heatmap_output1](/github_image/heat_loss.png)
 ![Heatmap_output1](/github_image/vector_loss.png)
 
+#### the left is heatmap loss and right is vectormap loss.
+
+#### In my project, there are many python files.
+
+#### 1. For_parsing_mat_to_json.ipynb
+#### this ipynb file makes .mat file to json file. When you download 'mpii_human_pose_dataset', there are annotation data and its format is .mat. So you convert this file format to json.
+
+#### 2. Image_resize.ipynb
+#### this ipynb file makes image files to regular size(regular width x regular height). The reason why I make image files size regulary is for saving time. By making image file size regular, training time could be reduced. Because there are no time to resize image during training.
+
+#### 3. network.py and network.ipynb
+#### this files are containing VGG-19 network.
+
+#### 4. Pose.ipynb
+#### this ipynb file is for training. It contains class and util function to train.
+
 
 ##### Here is a output of this project. There are only vectormap and heatmap images.
 
