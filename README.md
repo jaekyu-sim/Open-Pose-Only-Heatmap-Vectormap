@@ -3,7 +3,10 @@
 
 ## This project only could make vectormap and heatmap. So, I'll upload the project that could express the pose data applied the non-maxima suppression.
 
+### The Loss of this project is expressed here.
 
+![Heatmap_output1](/github_image/heat_loss.png)
+![Heatmap_output1](/github_image/vector_loss.png)
 
 
 ### Here is a output of this project. There are only vectormap and heatmap images.
