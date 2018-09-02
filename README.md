@@ -1,14 +1,14 @@
 # Open-Pose-Only-Heatmap-Vectormap
-##Open Pose(Detecting Human Body Skeleton) network(Only heatmap and vectormap)
+## Open Pose(Detecting Human Body Skeleton) network(Only heatmap and vectormap)
 
-##This project only could make vectormap and heatmap. So, I'll upload the project that could express the pose data applied the non-maxima suppression.
-
-
+## This project only could make vectormap and heatmap. So, I'll upload the project that could express the pose data applied the non-maxima suppression.
 
 
-###Here is a output of this project. There are only vectormap and heatmap images.
 
-###1. Heatmap images
+
+### Here is a output of this project. There are only vectormap and heatmap images.
+
+### 1. Heatmap images
 
 
 ![Heatmap_output1](/github_image/test_heatmap1.png)
