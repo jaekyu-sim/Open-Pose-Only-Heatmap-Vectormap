@@ -13,7 +13,7 @@
 #### In my project, there are many python files.
 
 #### 1. For_parsing_mat_to_json.ipynb
-#### this ipynb file makes .mat file to json file. When you download 'mpii_human_pose_dataset', there are annotation data and its format is .mat. So you convert this file format to json.
+#### this ipynb file makes .mat file to json file. When you download 'mpii_human_pose_dataset', there are annotation data. And the annotation data's format is .mat. So you convert this file format to json.
 
 #### 2. Image_resize.ipynb
 #### this ipynb file makes image files to regular size(regular width x regular height). The reason why I make image files size regulary is for saving time. By making image file size regular, training time could be reduced. Because there are no time to resize image during training.
